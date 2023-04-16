@@ -5,3 +5,4 @@ azure-devops==6.0.0b4
 tenacity==8.0.1
 pydantic==1.8.2
 pygithub==1.55
+python-gitlab==3.14.0
